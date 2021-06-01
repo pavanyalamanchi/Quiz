@@ -1,7 +1,5 @@
 # Quiz
 
-https://github.com/pavanyalamanchi/Quiz/blob/main/strive.png
-
 QUIZ GAME!
 
         RULES:
